@@ -21,7 +21,7 @@ public class MultiplicationTable {
             }
         }
 
-        for (int j = 1; j <= 5; ++j) {
+        for (int j = 1; j <= 10; ++j) {
                 System.out.println(number + "*" + j + "=" + number * j);
         }
     }
